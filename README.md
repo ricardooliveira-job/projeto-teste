@@ -7,6 +7,8 @@
  
  ---
  
+ Editando o leia-me localmente para depois sincronizar com github.
+
  ## Markdown
  O MD do final do readme significa markdown
  Essa é a linguagem de marcação que o github suporta, mas também serve para várias outras aplicações.
